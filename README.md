@@ -31,4 +31,14 @@ epoch: 2, training time: 4.70 secs, train perf: 76.67 %, mif: 61.89 %
 epoch: 3, training time: 4.75 secs, train perf: 78.77 %, mif: 64.75 %
 ```
 
-
+### Citation
+@article{luo2017segment,
+  title={Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes},
+  author={Luo, Yuan and Cheng, Yu and Uzuner, {\"O}zlem and Szolovits, Peter and Starren, Justin},
+  journal={Journal of the American Medical Informatics Association},
+  volume={25},
+  number={1},
+  pages={93--98},
+  year={2017},
+  publisher={Oxford University Press}
+}
