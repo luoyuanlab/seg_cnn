@@ -33,6 +33,7 @@ epoch: 3, training time: 4.75 secs, train perf: 78.77 %, mif: 64.75 %
 
 ### To get embeddings we used
 https://northwestern.box.com/s/eprxyxmee37p3d6khqbpn125tyttq4u6
+
 Include embeddings trained on MIMIC3 corpus, dimensions from 100 to 600.
 
 ### Citation
